@@ -118,7 +118,7 @@ If you [check this article out](https://developer.mozilla.org/en/docs/Web/HTML/E
 If you wanted to use YouTube, then you can get HTML 'embed' code that you can paste into your HTML instead.
 
 ```
-<video src="https://codio.com/s/img/videos/jazz.mp4" loop autoplay>
+<video src="https://codio.com/img/videos/jazz.mp4" loop autoplay>
 ```
 
 ---
